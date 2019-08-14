@@ -1,0 +1,16 @@
+{
+  "name": "printsquare-crawler",
+  "version": "0.1.0",
+  "description": "is there new order on printsqure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ahn Young Seon",
+    "email": "ys.ahn@outlook.com",
+    "url": "https://lovemewithoutall.github.io"
+  },
+  "license": "MIT"
+}
