@@ -12,5 +12,8 @@
     "email": "ys.ahn@outlook.com",
     "url": "https://lovemewithoutall.github.io"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
 }
