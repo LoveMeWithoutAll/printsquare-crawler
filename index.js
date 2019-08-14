@@ -1,8 +1,7 @@
 const crawl = require('./crawler')
+const sendMail = require('./mail')
 
 const isNew = async () => {
   const isNew = await crawl()
-  return isNew
+  if (isNew) sendMail()
 }
-
-isNew()
